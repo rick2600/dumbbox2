@@ -35,3 +35,6 @@ gcc -o example example.c lib/dumbbox.c -I./lib -lseccomp -lpthread
 * https://brauner.io/2020/07/23/seccomp-notify.html
 * https://github.com/seccomp/libseccomp/blob/main/tests/51-live-user_notification.c
 * https://man7.org/linux/man-pages/man2/seccomp_unotify.2.html
+
+![dumbbox](imgs/dumbbox_meme.jpg)
+
